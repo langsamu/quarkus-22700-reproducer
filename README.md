@@ -1,5 +1,7 @@
 Reproduces https://github.com/quarkusio/quarkus/issues/22700
 
+**Fixed by [22615](https://github.com/quarkusio/quarkus/pull/22615) in [2.6.2](https://github.com/quarkusio/quarkus/milestone/169).**
+
 To run:
 ```bash
 $ ./mvnw quarkus:dev
